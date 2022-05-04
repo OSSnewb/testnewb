@@ -8,7 +8,7 @@ setuptools.setup(
   author='Ossnewb',
   author_email='kik1232198@gmail.com',
   url="https://github.com/OSSnewb/testnewb",
-  download_url=",",
+  download_url="https://github.com/OSSnewb/testnewb/archive/refs/tags/1.zip",
   install_requries=['pytest'],
   long_description='oss-description;,
   long_description_content_type="text/markdown",
